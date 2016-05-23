@@ -1,0 +1,20 @@
+Comments and To-Dos
+
+- need to complete the date checker
+	- build a new array for the t-bills
+	- compare all the dates to "today"
+
+- error implementation how-to
+	- how does Python "view" these
+	- put in place for the date-checker
+		- delay the checker by 30 minutes
+		- if not in by 1700, what should I do?
+			- skip? send a warning email? try again until works
+				- add new "found" variable?
+
+- bank holidays
+
+- how to send emails from Python: ?
+	- format them to look like Eye21
+	- csv for excel
+	- both
