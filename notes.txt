@@ -5,6 +5,7 @@ Comments and To-Dos
 	- compare all the dates to "today"
 
 - error implementation how-to
+	*find an online book for learning python
 	- how does Python "view" these
 	- put in place for the date-checker
 		- delay the checker by 30 minutes
@@ -18,3 +19,5 @@ Comments and To-Dos
 	- format them to look like Eye21
 	- csv for excel
 	- both
+
+- make the README full and pretty

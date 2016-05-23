@@ -139,13 +139,13 @@ def prices( today):
 	dxy = round( dxy, 4 )
 
 
-	# print "S&P 500 			=", inx
-	# print "DJIA    			=", dji
-	# print "WTI     			=", wti
-	# print "Brent   			=", brent
-	# print "gold    			=", gold
-	# print "VIX     			=", vix
-	# print "dxy				=", dxy
-	# print "Treasury yields  		=", govt
+	print "S&P 500 			=", inx
+	print "DJIA    			=", dji
+	print "WTI     			=", wti
+	print "Brent   			=", brent
+	print "gold    			=", gold
+	print "VIX     			=", vix
+	print "dxy				=", dxy
+	print "Treasury yields  		=", govt
 
 #####
