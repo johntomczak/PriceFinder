@@ -21,3 +21,5 @@ Comments and To-Dos
 	- both
 
 - make the README full and pretty
+
+- CTRL+C quits the process
