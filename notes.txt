@@ -23,3 +23,5 @@ Comments and To-Dos
 - make the README full and pretty
 
 - CTRL+C quits the process
+
+- make a DoD delta calculator or a date checker - which one?
